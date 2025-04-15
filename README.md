@@ -1,3 +1,6 @@
+# For workshop purposes
+Update README
+
 # Spring Boot Hello World Project
 
 Welcome to the Spring Boot "Hello World" project! This is a simple project that demonstrates the basic setup and structure of a Spring Boot application.
